@@ -1,5 +1,4 @@
-![Project Preview](<img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/aa025724-bbb7-43cf-8f08-c1f73f1f64cf" />
-)
+![Project Preview](https://miro.medium.com/v2/resize:fit:1400/1*azZXECXc2CKfdAvet92bLA.gif)
 
 # 🚀 Automated File Transfer between S3 Buckets using AWS Lambda
 
